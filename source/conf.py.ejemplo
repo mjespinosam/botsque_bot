@@ -1,0 +1,4 @@
+#Escribe aquí el TOKEN del botfather de telegram
+#Asegúrate antes de subirlo al repositorio remoto que está en el .gitignore
+
+TOKEN = ''
